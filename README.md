@@ -29,7 +29,7 @@ res=np.linalg.matrix_rank(a)
 print(res)
 ```
 ## Output:
-![output](d1.png)
+![output](
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
